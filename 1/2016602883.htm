@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Acceder a los elementos de un objeto</p>
+
+<p id="demo"></p>
+
+<script>
+var objeto = "";
+objeto = {"boleta":"2016602883",
+  "balance":{"activo":{
+  				"bancos":1670,
+  				"insumo1":200,
+  				"insumo2":157,
+  				"infraestructura":5831,
+  				"EnProceso":765,
+  				"mercancia":1613,
+  				"clientes":2224
+  					  },
+
+            "pasivo":{
+            	"proveedores":2141,
+            	"hipotecas":10709
+            	     },
+
+            "capital":{
+            	"capital_social":4519
+            		  }
+            }
+  };
+document.getElementById("demo").innerHTML = 
+"Boleta: "+ objeto.boleta + "<br>" + 
+
+"Activos: "+ (objeto.balance.activo.bancos + 
+				objeto.balance.activo.insumo1 +
+				objeto.balance.activo.insumo2 +
+				objeto.balance.activo.infraestructura +
+				objeto.balance.activo.EnProceso +
+				objeto.balance.activo.mercancia +
+				objeto.balance.activo.clientes) + "<br>" + 
+
+"Pasivos: "+ (objeto.balance.pasivo.proveedores + 
+			 	objeto.balance.pasivo.hipotecas) + "<br>" + 
+
+"Capital: "+ objeto.balance.capital.capital_social + "<br>" +
+
+"Balance General: "+ (((objeto.balance.activo.bancos + 
+				objeto.balance.activo.insumo1 +
+				objeto.balance.activo.insumo2 +
+				objeto.balance.activo.infraestructura +
+				objeto.balance.activo.EnProceso +
+				objeto.balance.activo.mercancia +
+				objeto.balance.activo.clientes))+
+				(objeto.balance.capital.capital_social)-
+				((objeto.balance.pasivo.proveedores + 
+			 	objeto.balance.pasivo.hipotecas))) + "<br>";
+</script>
+
+</body>
+</html>
