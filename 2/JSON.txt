@@ -1,0 +1,5 @@
+"ontologia":{"objeto":{"isan":"function() {precio=273;if(precio=273){tasa=2;isan=precio* (tasa/180);}
+else if(precio<329){tasa=5;isan=precio* (tasa/180);}
+else if(precio<384){tasa=10;isan=precio* (tasa/180);}
+else if(precio<494){tasa=15;isan=precio* (tasa/180);}
+else {isan=0;} return isan;}"}}
