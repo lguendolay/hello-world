@@ -8,12 +8,12 @@
 			<head>
 				<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
 				<title>
-					Inteligencia de Negocios
+					Ingenieria del Conocimiento
 				</title>
 			</head>
 			<body style="font-family : sans-serif;">
 				<h1>
-					Inteligencia de negocios - "Clasificador"
+					Ingenieria del Conocimiento- "Clasificador"
 				</h1>
 				<h2>
 					Mejores libros informaticos de
