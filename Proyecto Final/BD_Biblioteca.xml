@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="catalogo.xsl"?>
+<catalogo>
+	<operaciones>
+		<disenio>
+			<libro>
+				<autor>texto</autor>
+				<titulo>texto</titulo>
+				<numedicion>entero</numedicion>
+				<anyo>entero</anyo>
+			</libro>
+		</disenio>
+		<datos>
+			<libro>
+				<autor>Matteo Pagani.</autor>
+				<titulo> Windows Phone 8 <enfasis> Development </enfasis> </titulo>
+				<numedicion>3</numedicion>
+				<edicion numedic="3">
+					<anyo>2002</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Chris Rose.</autor>
+				<titulo> Direct 3D </titulo>
+				<numedicion>2</numedicion>
+				<edicion numedic="2">
+					<anyo>2001</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Stacia Misner.</autor>
+				<titulo> SQL Server Analysis Services </titulo>
+				<numedicion>4</numedicion>
+				<edicion numedic="4">
+					<anyo>2000</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Chris Rose.</autor>
+				<titulo> Assembly Language </titulo>
+				<numedicion>2</numedicion>
+				<edicion numedic="2">
+					<anyo>2005</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Emanuele DelBono.</autor>
+				<titulo> <enfasis>ASP.NET</enfasis> Web API </titulo>
+				<numedicion>3</numedicion>
+				<edicion numedic="3">
+					<anyo>2002</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Joe Booth.</autor>
+				<titulo> Visual Studio Add-Ins </titulo>
+				<numedicion>2</numedicion>
+				<edicion numedic="2">
+					<anyo>2004</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Peter Shaw.</autor>
+				<titulo> Postgres </titulo>
+				<numedicion>1</numedicion>
+				<edicion numedic="1">
+					<anyo>1999</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Chris Rose.</autor>
+				<titulo> Direct2D </titulo>
+				<numedicion>1</numedicion>
+				<edicion numedic="1">
+					<anyo>2001</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Stacia Misner.</autor>
+				<titulo> Windows Azure SQL Reporting </titulo>
+				<numedicion>3</numedicion>
+				<edicion numedic="3">
+					<anyo>2006</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Marc Clifton.</autor>
+				<titulo> Unit Testing </titulo>
+				<numedicion>2</numedicion>
+				<edicion numedic="2">
+					<anyo>2003</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Steve Fenton.</autor>
+				<titulo> TypeScript </titulo>
+				<numedicion>2</numedicion>
+				<edicion numedic="2">
+					<anyo>2004</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Buddy James.</autor>
+				<titulo> WPF </titulo>
+				<numedicion>2</numedicion>
+				<edicion numedic="2">
+					<anyo>2006</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Ryan Hodson.</autor>
+				<titulo> iOS </titulo>
+				<numedicion>3</numedicion>
+				<edicion numedic="3">
+					<anyo>2005</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>John Garland.</autor>
+				<titulo> Windows Store Apps </titulo>
+				<numedicion>1</numedicion>
+				<edicion numedic="1">
+					<anyo>2005</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Robert Horvick.</autor>
+				<titulo> Data Structures Part 1 </titulo>
+				<numedicion>1</numedicion>
+				<edicion numedic="1">
+					<anyo>2002</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Peter Shaw.</autor>
+				<titulo> GIS </titulo>
+				<numedicion>2</numedicion>
+				<edicion numedic="2">
+					<anyo>1998</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Robert Horvick.</autor>
+				<titulo> Data Structures Part 2. </titulo>
+				<numedicion>2</numedicion>
+				<edicion numedic="2">
+					<anyo>2003</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Ryan Hodson.</autor>
+				<titulo> Objective-C </titulo>
+				<numedicion>3</numedicion>
+				<edicion numedic="3">
+					<anyo>2004</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Robert Pickering.</autor>
+				<titulo> F# </titulo>
+				<numedicion>2</numedicion>
+				<edicion numedic="2">
+					<anyo>1999</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Ryan Hodson.</autor>
+				<titulo> Knockout.js </titulo>
+				<numedicion>1</numedicion>
+				<edicion numedic="1">
+					<anyo>2005</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Michael McLaughlin.</autor>
+				<titulo> <enfasis>C++</enfasis> </titulo>
+				<numedicion>2</numedicion>
+				<edicion numedic="2">
+					<anyo>2004</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Lyle Luppes.</autor>
+				<titulo> ASP.NET MVC 4 Mobile Websites </titulo>
+				<numedicion>1</numedicion>
+				<edicion numedic="1">
+					<anyo>2005</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Jan Van der Haegen.</autor>
+				<titulo> LightSwitch </titulo>
+				<numedicion>2</numedicion>
+				<edicion numedic="2">
+					<anyo>1998</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Cody Lindley.</autor>
+				<titulo> JavaScript </titulo>
+				<numedicion>3</numedicion>
+				<edicion numedic="3">
+					<anyo>2007</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Scott Allen.</autor>
+				<titulo> <enfasis>HTTP</enfasis> </titulo>
+				<numedicion>5</numedicion>
+				<edicion numedic="5">
+					<anyo>2005</anyo>
+				</edicion>
+			</libro>
+			<libro>
+				<autor>Cody Lindley.</autor>
+				<titulo> jQuery </titulo>
+				<numedicion>4</numedicion>
+				<edicion numedic="4">
+					<anyo>2004</anyo>
+				</edicion>
+			</libro>
+		</datos>
+	</operaciones>
+</catalogo>
