@@ -1,4 +1,4 @@
-Segunda Opcion para la entrega del proyecyo de Ingenieria del Conocimiento
+<b>Segunda Opcion para la entrega del proyecyo de Ingenieria del Conocimiento </b>
 
 <b>Equipo 6</b>
 
@@ -10,4 +10,4 @@ Integrantes:
 
 
 
-Para realizar la comprobacion de los codigos, favor de utilizar el editor de XSLT ofrecido por W3School (https://www.w3schools.com/xml/tryxslt.asp?xmlfile=cdcatalog&xsltfile=cdcatalog)
+Para realizar la comprobacion de los codigos, favor de utilizar el editor de XSLT ofrecido por W3Schools (https://www.w3schools.com/xml/tryxslt.asp?xmlfile=cdcatalog&xsltfile=cdcatalog)
