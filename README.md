@@ -10,4 +10,4 @@ Integrantes:
 
 Los archivos para la primera evaluación se encuentran en la carpeta llamada "1"<br/>
 Los archivos para la segunda evaluación se encuentran en la carpeta llamada "2"<br/>
-<b>Los archivos del proyecto final se encuentran en la carpeta "PROYECTO FINAL"</b>
+<b>Los archivos del proyecto final se encuentran en la carpeta "PROYECTO FINAL y ProyectoFinal_ClasificadorV2"</b>
