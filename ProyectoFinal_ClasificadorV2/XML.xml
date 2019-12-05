@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Ejercicio901d.xsl"?>
+    <materias>
+      <materia id="INGCON">
+        <nombre>INGENIERIA DEL CONOCIMIENTO </nombre> 
+        <grado>Septimo</grado>
+        <secuencia sec="3NM71"/>
+     </materia>
+     <materia id="FEP">
+        <nombre>FORMULACION Y EVALUACION DE PROYECTOS</nombre> 
+        <grado>Octavo</grado>
+        <secuencia sec="4NM81"/>
+     </materia>
+     <materia id="INFE">
+        <nombre>INFORMATICA EMPRESARIAL</nombre> 
+        <grado>Octavo</grado>
+        <secuencia sec="5NM80"/>
+     </materia>
+     <materia id="APPRED">
+        <nombre>APLICACIONES DE REDES</nombre> 
+        <grado>Octavo</grado>
+        <secuencia sec="4NM80"/>
+     </materia>
+     <materia id="PLAN">
+        <nombre>PLANEACION ESTRATÉGICA</nombre> 
+        <grado>Septimo</grado>
+        <secuencia sec="2NV70"/>
+     </materia>
+</materias>
